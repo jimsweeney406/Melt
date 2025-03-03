@@ -1,0 +1,26 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-melt-staging-222534-authRole",
+      "UnauthRoleArn": "arn:aws:iam::740740576418:role/amplify-melt-staging-222534-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::740740576418:role/amplify-melt-staging-222534-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-melt-staging-222534-deployment",
+      "UnauthRoleName": "amplify-melt-staging-222534-unauthRole",
+      "StackName": "amplify-melt-staging-222534",
+      "StackId": "arn:aws:cloudformation:us-east-2:740740576418:stack/amplify-melt-staging-222534/e9dad9e0-f113-11ed-86f8-06342d3ee2d3",
+      "AmplifyAppId": "d3b5ma3sb2q7dc"
+    },
+    "categories": {
+      "auth": {
+        "MELT": {}
+      },
+      "storage": {
+        "s3meltstoragee9eccbf3": {}
+      },
+      "api": {
+        "MELT": {}
+      }
+    }
+  }
+}
