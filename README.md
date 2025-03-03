@@ -1,5 +1,5 @@
 # MELT
-FoodBlog Swiping App with API call and Database
+FoodBlog Swiping App with API, Authentication and Database
  
 ## Teck Stack
 - SwiftUI
@@ -8,4 +8,4 @@ FoodBlog Swiping App with API call and Database
 - Firebase Auth
 - Firestore Storage
 
-  
+https://imgur.com/a/RcO4jtz
